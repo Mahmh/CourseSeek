@@ -1,0 +1,21 @@
+{
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/client/src/styles",
+        }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.includeItems": ["/client/src/styles/main.scss"],
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": ["tests", "-sv"],
+    "files.exclude": { 
+        // "**/.git": false,
+        "**/__pycache__/": true,
+        "client/*config*": true,
+        "client/src/vite-env.d.ts": true,
+        // "client/index.html": true,
+        // "compose*.yml": true,
+    }
+}

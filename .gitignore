@@ -1,0 +1,4 @@
+blueprints/
+src/client/node_modules/
+src/client/dist/
+**/__pycache__/
