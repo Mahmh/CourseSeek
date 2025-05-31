@@ -1,0 +1,43 @@
+$color_palette: (
+    'primary': #ad80ff,
+    'light-primary': #dad5fb,
+    'dark-primary': #8b67ce,
+    'secondary': #2b4efa,
+    'white': #e9ebf0,
+    'black': #2d3748,
+    'gray': #4a5568
+);
+
+@function get-color($color) {
+    @return map-get($color_palette, $color);
+}
+
+@font-face {
+    font-family: Jost;
+    src: url('/fonts/Jost-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Jost;
+    src: url('/fonts/Jost-Italic-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: italic;
+}
+
+* {
+    font-size: 1rem;
+    font-family: Jost;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+button {
+    outline: none;
+    border: none;
+}

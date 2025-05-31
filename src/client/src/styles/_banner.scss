@@ -1,0 +1,29 @@
+#banner {
+    width: 100%;
+    min-height: 30vh;
+    background: linear-gradient(90deg, get-color('primary') 0%, get-color('secondary') 100%);
+    color: get-color('white');
+    padding: 2rem 1rem;
+    text-align: center;
+    box-shadow: 0 4px 16px rgba(79, 140, 255, 0.15);
+
+    section {
+        margin-bottom: 50px;
+    }
+
+    h1 {
+        font-size: 4rem;
+        margin-bottom: 0;
+    }
+
+    p {
+        margin: 0 auto;
+        font-size: 1.3rem;
+        opacity: 0.95;
+    }
+
+    @media (max-width: 600px) {
+        padding: 1.2rem 0.5rem;
+        font-size: 0.95rem;
+    }
+}
