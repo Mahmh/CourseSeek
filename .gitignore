@@ -1,4 +1,6 @@
+.vscode/
 blueprints/
+**/__pycache__/
 src/client/node_modules/
 src/client/dist/
-**/__pycache__/
+src/server/data/vectordb/

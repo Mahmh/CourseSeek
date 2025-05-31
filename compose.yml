@@ -1,23 +1,23 @@
 services:
+  server:
+    build:
+      context: ./src/server
+      dockerfile: Dockerfile
+    container_name: server_c
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src/server:/app
+    restart: unless-stopped
+
   client:
     build:
       context: ./src/client
       dockerfile: Dockerfile
+    container_name: client_c
     ports:
       - "5173:5173"
     volumes:
       - ./src/client:/app
       - /app/node_modules
-    container_name: client_c
-    restart: unless-stopped
-
-  server:
-    build:
-      context: ./src/server
-      dockerfile: Dockerfile
-    ports:
-      - "8000:8000"
-    volumes:
-      - ./src/server:/app
-    container_name: server_c
     restart: unless-stopped
