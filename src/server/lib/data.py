@@ -34,6 +34,7 @@ def load_courses_to_vectordb():
         metadata = {
             'id': course['id'],
             'title': course['title'],
+            'description': course['description'],
             'tags': ', '.join(course.get('tags', [])),
             'author': course.get('author'),
             'duration': course.get('duration'),

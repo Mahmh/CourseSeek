@@ -12,6 +12,8 @@ export default function Search() {
 
     const search = async () => {
         Ctx.loading.value = true
+        Ctx.currentPage.value = 1
+
         await new Request(
             '/search',
             (data: Course[]) => {
@@ -27,8 +29,10 @@ export default function Search() {
 
     const reset = async () => {
         Ctx.loading.value = true
+        Ctx.currentPage.value = 1
         searchQuery.value = ''
         error.value = null
+
         await new Request(
             '/',
             (data: Course[]) => {

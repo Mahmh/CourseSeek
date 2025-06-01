@@ -24,7 +24,7 @@ def search_courses(query: str, top_k: int = 15, distance_threshold: float = .7) 
         {
             'id': doc.metadata['id'],
             'title': doc.metadata['title'],
-            'description': doc.page_content,
+            'description': doc.metadata['description'],
             'tags': doc.metadata.get('tags').split(', '),
             'author': doc.metadata.get('author'),
             'duration': doc.metadata.get('duration'),

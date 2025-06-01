@@ -1,19 +1,15 @@
 import { useSignals } from '@preact/signals-react/runtime'
-import { signal } from '@preact/signals'
-import { Ctx } from '../context'
+import { Ctx, Const } from '../context'
 import type { Course as CourseType } from '../types'
 import Course from './Course'
-
-const currentPage = signal(1)
-const ITEMS_PER_PAGE = 9
 
 export default function Courses() {
     useSignals()
     const totalCourses = Ctx.courses.value.length
-    const totalPages = Math.ceil(totalCourses / ITEMS_PER_PAGE)
+    const totalPages = Math.ceil(totalCourses / Const.ITEMS_PER_PAGE)
     const paginatedCourses = Ctx.courses.value.slice(
-        (currentPage.value - 1) * ITEMS_PER_PAGE,
-        currentPage.value * ITEMS_PER_PAGE
+        (Ctx.currentPage.value - 1) * Const.ITEMS_PER_PAGE,
+        Ctx.currentPage.value * Const.ITEMS_PER_PAGE
     ) as CourseType[]
 
     if (Ctx.loading.value) return (
@@ -36,8 +32,8 @@ export default function Courses() {
 
 const Pagination = ({ totalPages }: { totalPages: number }) => (
     <div className='pagination'>
-        <button onClick={() => currentPage.value--} disabled={currentPage.value === 1}>Prev</button>
-        <span>Page {currentPage.value} of {totalPages}</span>
-        <button onClick={() => currentPage.value++} disabled={currentPage.value === totalPages}>Next</button>
+        <button onClick={() => Ctx.currentPage.value--} disabled={Ctx.currentPage.value === 1}>Prev</button>
+        <span>Page {Ctx.currentPage.value} of {totalPages}</span>
+        <button onClick={() => Ctx.currentPage.value++} disabled={Ctx.currentPage.value === totalPages}>Next</button>
     </div>
 )

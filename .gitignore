@@ -1,5 +1,4 @@
 .vscode/
-blueprints/
 **/__pycache__/
 src/client/node_modules/
 src/client/dist/
