@@ -5,6 +5,8 @@ It leverages **semantic embeddings** and **vector similarity** to provide smart,
 
 CourseSeek comes with a database of **100+ online tech courses**, ready for semantic search out of the box.
 
+*I took only 3 days to finish this whole demo project.*
+
 ## Why This Project?
 Recruiters and developers often face basic keyword match search. CourseSeek demonstrates how **semantic search** can improve UX by matching user *intent* — not just text.
 

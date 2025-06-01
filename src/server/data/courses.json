@@ -1,0 +1,1387 @@
+[
+  {
+    "id": 0,
+    "title": "Introduction to Machine Learning",
+    "description": "A beginner-friendly course that introduces core machine learning concepts, covering algorithms like linear regression, decision trees, and k-nearest neighbors. Learn how to train, validate, and evaluate models using Python and real datasets.",
+    "tags": [
+      "machine learning",
+      "ai",
+      "python",
+      "beginner"
+    ],
+    "author": "ML From Scratch",
+    "duration": "5 weeks",
+    "level": "Beginner",
+    "rating": 4.7
+  },
+  {
+    "id": 1,
+    "title": "Natural Language Processing Basics",
+    "description": "Learn the foundations of NLP, including text preprocessing, tokenization, and language model building. Gain hands-on experience building text classifiers and understanding how machines process human language.",
+    "tags": [
+      "nlp",
+      "language models",
+      "deep learning",
+      "text"
+    ],
+    "author": "Language AI Hub",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Web3 Development Bootcamp",
+    "description": "Master Ethereum smart contracts, Solidity programming, and decentralized applications (DApps). This bootcamp includes real-world projects that cover token standards, wallets, and blockchain interactions.",
+    "tags": [
+      "web3",
+      "solidity",
+      "blockchain",
+      "smart contracts"
+    ],
+    "author": "Buildspace",
+    "duration": "6h 30m",
+    "level": "Advanced",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "title": "Fundamentals of Data Structures",
+    "description": "Understand and implement core data structures like arrays, stacks, queues, linked lists, trees, and graphs. Learn how to choose the right data structure for solving various computational problems.",
+    "tags": [
+      "data structures",
+      "algorithms",
+      "cs",
+      "beginner"
+    ],
+    "author": "Open University",
+    "duration": "6 weeks",
+    "level": "Beginner",
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "title": "Advanced Deep Learning Concepts",
+    "description": "Dive deep into neural networks, backpropagation, convolutional architectures, attention mechanisms, and generative models. Build advanced deep learning systems using frameworks like TensorFlow or PyTorch.",
+    "tags": [
+      "deep learning",
+      "neural networks",
+      "ai",
+      "ml"
+    ],
+    "author": "AI Research Academy",
+    "duration": "4 months",
+    "level": "Advanced",
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "title": "JavaScript for Web Developers",
+    "description": "Master modern JavaScript including ES6+ syntax, event handling, DOM manipulation, and asynchronous programming. Build interactive web pages and understand core programming patterns for frontend development.",
+    "tags": [
+      "javascript",
+      "frontend",
+      "web",
+      "programming"
+    ],
+    "author": "CodeSchool",
+    "duration": "2 weeks",
+    "level": "Beginner",
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "title": "Introduction to Cybersecurity",
+    "description": "Discover the fundamentals of cybersecurity including threat modeling, common attack vectors, encryption techniques, risk mitigation, and real-world cyber defense strategies.",
+    "tags": [
+      "cybersecurity",
+      "security",
+      "networking",
+      "infosec"
+    ],
+    "author": "Online Tech Institute",
+    "duration": "4 weeks",
+    "level": "Beginner",
+    "rating": 4.5
+  },
+  {
+    "id": 7,
+    "title": "Containerization with Docker and Orchestration",
+    "description": "Learn to containerize applications using Docker, work with Dockerfiles, manage containers using CLI, and deploy scalable systems using orchestration tools like Kubernetes or Docker Swarm.",
+    "tags": [
+      "containers",
+      "orchestration",
+      "devops",
+      "cli"
+    ],
+    "author": "DevOps Lab",
+    "duration": "7h 45m",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "title": "Prompt Engineering for Language Models",
+    "description": "Understand the principles of crafting high-quality prompts for large language models. Practice designing effective instructions for summarization, extraction, chatbots, and more using real-world scenarios.",
+    "tags": [
+      "prompt engineering",
+      "language models",
+      "ai",
+      "nlp"
+    ],
+    "author": "Language AI Hub",
+    "duration": "2h 30m",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "title": "Full-Stack Development with Python and Modern JS",
+    "description": "Build dynamic full-stack web apps using Python (Flask/Django) on the backend and modern JS frameworks (React/Vue) on the frontend. Learn API development, routing, state management, and database integration.",
+    "tags": [
+      "fullstack",
+      "web dev",
+      "python",
+      "javascript"
+    ],
+    "author": "Web Academy",
+    "duration": "10h",
+    "level": "Advanced",
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "title": "Data Visualization with Python",
+    "description": "Learn to turn raw data into compelling visual stories using tools like Matplotlib, Seaborn, and Plotly. Build interactive dashboards and choose the right visualizations to communicate insights effectively.",
+    "tags": [
+      "data viz",
+      "python",
+      "charts",
+      "visualization"
+    ],
+    "author": "Insight Academy",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "title": "Introduction to Computer Vision",
+    "description": "Explore image processing fundamentals, edge detection, object recognition, and facial detection techniques. Learn how machines interpret and analyze visual data using OpenCV and deep learning tools.",
+    "tags": [
+      "computer vision",
+      "cv",
+      "ai",
+      "image"
+    ],
+    "author": "PixelTech",
+    "duration": "5 weeks",
+    "level": "Beginner",
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "title": "Backend Development Essentials",
+    "description": "Explore key backend concepts including RESTful API development, database operations, server-side routing, authentication mechanisms, and scalability patterns using modern backend frameworks.",
+    "tags": [
+      "backend",
+      "server",
+      "api",
+      "database"
+    ],
+    "author": "Code Horizon",
+    "duration": "8h 15m",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 13,
+    "title": "Practical Git and Version Control",
+    "description": "A hands-on course covering Git fundamentals, branching strategies, conflict resolution, and collaborative workflows with platforms like GitHub. Build confidence in team-based software development.",
+    "tags": [
+      "git",
+      "version control",
+      "tools",
+      "collaboration"
+    ],
+    "author": "DevTrack",
+    "duration": "2h 10m",
+    "level": "Beginner",
+    "rating": 4.3
+  },
+  {
+    "id": 14,
+    "title": "AI Ethics and Fairness",
+    "description": "Delve into ethical challenges in AI including algorithmic bias, fairness metrics, transparency, and responsible deployment. Understand how to build AI systems that prioritize equity and accountability.",
+    "tags": [
+      "ethics",
+      "ai",
+      "fairness",
+      "transparency"
+    ],
+    "author": "MindWorks Academy",
+    "duration": "4 weeks",
+    "level": "Advanced",
+    "rating": 4.7
+  },
+  {
+    "id": 15,
+    "title": "Intro to Reinforcement Learning",
+    "description": "Learn the fundamentals of reinforcement learning, including Markov decision processes, Q-learning, and policy gradients. Build intelligent agents that learn by interacting with their environment.",
+    "tags": [
+      "reinforcement learning",
+      "ai",
+      "agents",
+      "ml"
+    ],
+    "author": "RL Academy",
+    "duration": "6 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 16,
+    "title": "Applied Linear Algebra for AI",
+    "description": "A math-focused course that teaches vector spaces, matrix operations, eigenvalues, and more — with applications in neural networks and computer vision.",
+    "tags": [
+      "linear algebra",
+      "math",
+      "ai",
+      "deep learning"
+    ],
+    "author": "MathTech",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.5
+  },
+  {
+    "id": 17,
+    "title": "No-Code AI Tools for Business",
+    "description": "Empower non-developers to build smart workflows using no-code tools like Zapier, Peltarion, and Google AutoML. Automate tasks and deploy simple AI without writing code.",
+    "tags": [
+      "no-code",
+      "automation",
+      "business",
+      "ai"
+    ],
+    "author": "FutureWorks",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "rating": 4.4
+  },
+  {
+    "id": 18,
+    "title": "Ethical Hacking and Penetration Testing",
+    "description": "Master ethical hacking tools and techniques for vulnerability analysis, penetration testing, and securing systems. Practice hands-on using real-world attack simulations.",
+    "tags": [
+      "hacking",
+      "cybersecurity",
+      "penetration testing",
+      "security"
+    ],
+    "author": "HackLab",
+    "duration": "5 weeks",
+    "level": "Advanced",
+    "rating": 4.8
+  },
+  {
+    "id": 19,
+    "title": "Cloud Computing with AWS",
+    "description": "Gain practical knowledge of AWS services including EC2, S3, Lambda, and IAM. Learn how to architect secure and scalable applications in the cloud.",
+    "tags": [
+      "cloud",
+      "aws",
+      "infrastructure",
+      "devops"
+    ],
+    "author": "CloudMastery",
+    "duration": "6 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 20,
+    "title": "Mobile App Development with Flutter",
+    "description": "Learn to build high-performance cross-platform mobile apps using Flutter and Dart. Cover UI design, state management, and backend integration.",
+    "tags": [
+      "flutter",
+      "mobile",
+      "app development",
+      "dart"
+    ],
+    "author": "AppForge",
+    "duration": "5 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 21,
+    "title": "Kubernetes for Developers",
+    "description": "Master container orchestration with Kubernetes. Deploy, scale, and manage containerized applications using real-world configuration examples.",
+    "tags": [
+      "kubernetes",
+      "containers",
+      "devops",
+      "infrastructure"
+    ],
+    "author": "KubeLearn",
+    "duration": "7h",
+    "level": "Advanced",
+    "rating": 4.8
+  },
+  {
+    "id": 22,
+    "title": "Introduction to Quantum Computing",
+    "description": "Explore the fascinating world of quantum computing including qubits, superposition, and quantum gates. Simulate basic quantum algorithms using Qiskit.",
+    "tags": [
+      "quantum",
+      "computing",
+      "physics",
+      "qiskit"
+    ],
+    "author": "QuantumX",
+    "duration": "4 weeks",
+    "level": "Advanced",
+    "rating": 4.5
+  },
+  {
+    "id": 23,
+    "title": "Design Thinking for Innovators",
+    "description": "Learn how to solve complex problems creatively with design thinking. Follow real case studies to build empathy, prototype solutions, and iterate rapidly.",
+    "tags": [
+      "design thinking",
+      "creativity",
+      "innovation",
+      "ux"
+    ],
+    "author": "ThinkLab",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "rating": 4.6
+  },
+  {
+    "id": 24,
+    "title": "Intro to Game Development with Unity",
+    "description": "Build interactive 2D and 3D games using Unity. Learn game physics, scripting in C#, and how to publish games to different platforms.",
+    "tags": [
+      "game development",
+      "unity",
+      "c#",
+      "interactive"
+    ],
+    "author": "GameCraft",
+    "duration": "6 weeks",
+    "level": "Beginner",
+    "rating": 4.7
+  },
+  {
+    "id": 25,
+    "title": "UX/UI Design Fundamentals",
+    "description": "Master the principles of user-centered design, wireframing, prototyping, and usability testing using tools like Figma and Adobe XD.",
+    "tags": [
+      "ux",
+      "ui",
+      "design",
+      "figma"
+    ],
+    "author": "DesignStudio",
+    "duration": "4 weeks",
+    "level": "Beginner",
+    "rating": 4.6
+  },
+  {
+    "id": 26,
+    "title": "LLM Fine-Tuning with Hugging Face",
+    "description": "Learn to fine-tune large language models using the Hugging Face ecosystem. Explore transfer learning, dataset preparation, and evaluation strategies.",
+    "tags": [
+      "huggingface",
+      "llm",
+      "fine-tuning",
+      "nlp"
+    ],
+    "author": "ModelWorks",
+    "duration": "5h",
+    "level": "Advanced",
+    "rating": 4.8
+  },
+  {
+    "id": 27,
+    "title": "Resume and Portfolio Building for Tech Careers",
+    "description": "Craft compelling resumes, technical portfolios, and LinkedIn profiles that stand out. Includes real examples and recruiter-backed strategies.",
+    "tags": [
+      "resume",
+      "portfolio",
+      "career",
+      "tech"
+    ],
+    "author": "CareerLift",
+    "duration": "2 weeks",
+    "level": "Beginner",
+    "rating": 4.5
+  },
+  {
+    "id": 28,
+    "title": "Advanced SQL for Data Analysts",
+    "description": "Take your SQL skills to the next level with window functions, CTEs, advanced joins, performance tuning, and real analytical queries.",
+    "tags": [
+      "sql",
+      "data",
+      "analytics",
+      "queries"
+    ],
+    "author": "DataLogic",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 29,
+    "title": "DevOps CI/CD Pipelines with GitHub Actions",
+    "description": "Automate software delivery using GitHub Actions. Learn to build, test, and deploy with CI/CD workflows and Docker integration for modern DevOps pipelines.",
+    "tags": [
+      "devops",
+      "github",
+      "ci/cd",
+      "automation"
+    ],
+    "author": "FlowOps",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 30,
+    "title": "Building AI Chatbots with Dialogflow",
+    "description": "Create conversational agents using Dialogflow and integrate them with platforms like WhatsApp, Slack, and websites. Cover NLP intent handling and webhook fulfillment.",
+    "tags": [
+      "chatbots",
+      "nlp",
+      "dialogflow",
+      "ai"
+    ],
+    "author": "BotCraft",
+    "duration": "4h",
+    "level": "Beginner",
+    "rating": 4.5
+  },
+  {
+    "id": 31,
+    "title": "Data Engineering with Apache Spark",
+    "description": "Learn to process big data using Apache Spark. Explore RDDs, DataFrames, Spark SQL, and streaming pipelines in real-world scenarios.",
+    "tags": [
+      "spark",
+      "big data",
+      "data engineering",
+      "etl"
+    ],
+    "author": "StreamForge",
+    "duration": "6 weeks",
+    "level": "Advanced",
+    "rating": 4.7
+  },
+  {
+    "id": 32,
+    "title": "Agile Project Management with Scrum",
+    "description": "Master the Scrum framework, roles, ceremonies, and tools to manage agile teams effectively. Practice sprint planning and retrospective facilitation.",
+    "tags": [
+      "scrum",
+      "agile",
+      "project management",
+      "teams"
+    ],
+    "author": "AgileWorks",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "rating": 4.4
+  },
+  {
+    "id": 33,
+    "title": "Secure Web Development Best Practices",
+    "description": "Learn how to build secure web applications by preventing common vulnerabilities such as XSS, SQL Injection, and CSRF. Includes OWASP Top 10 review and hands-on labs.",
+    "tags": [
+      "security",
+      "web",
+      "owasp",
+      "best practices"
+    ],
+    "author": "SecureCode School",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 34,
+    "title": "Intro to Robotics with Arduino",
+    "description": "Build real-world robotics projects using Arduino. Learn about sensors, actuators, microcontrollers, and basic embedded programming.",
+    "tags": [
+      "robotics",
+      "arduino",
+      "hardware",
+      "engineering"
+    ],
+    "author": "RoboMinds",
+    "duration": "5 weeks",
+    "level": "Beginner",
+    "rating": 4.6
+  },
+  {
+    "id": 35,
+    "title": "Generative Art with Python",
+    "description": "Create mesmerizing generative art using Python libraries like Turtle, Pygame, and Processing.py. Explore algorithmic patterns, randomness, and visual composition.",
+    "tags": [
+      "generative art",
+      "python",
+      "creativity",
+      "visual"
+    ],
+    "author": "ArtCode",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "rating": 4.5
+  },
+  {
+    "id": 36,
+    "title": "Voice App Development with Alexa Skills Kit",
+    "description": "Design and deploy voice-enabled applications for Alexa. Use the Alexa Skills Kit (ASK) to handle voice intents, responses, and AWS Lambda functions.",
+    "tags": [
+      "alexa",
+      "voice apps",
+      "iot",
+      "aws"
+    ],
+    "author": "VoiceDev Lab",
+    "duration": "4h 30m",
+    "level": "Intermediate",
+    "rating": 4.4
+  },
+  {
+    "id": 37,
+    "title": "3D Modeling with Blender",
+    "description": "Learn 3D modeling, sculpting, and rendering with Blender. Create characters, environments, and animations for games, film, or art projects.",
+    "tags": [
+      "3d",
+      "blender",
+      "modeling",
+      "animation"
+    ],
+    "author": "Vertex Academy",
+    "duration": "6 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 38,
+    "title": "Financial Forecasting with Excel",
+    "description": "Use Excel for data analysis, modeling, and forecasting. Learn regression, trend analysis, and dashboard creation for business insights.",
+    "tags": [
+      "excel",
+      "finance",
+      "forecasting",
+      "data analysis"
+    ],
+    "author": "ExcelEdge",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 39,
+    "title": "AI in Healthcare: Diagnosis and Prediction",
+    "description": "Explore how AI is revolutionizing healthcare with applications in diagnostics, predictive modeling, and personalized medicine. Includes real-world case studies and hands-on tools.",
+    "tags": [
+      "healthcare",
+      "ai",
+      "prediction",
+      "diagnostics"
+    ],
+    "author": "MediAI Institute",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.8
+  },
+  {
+    "id": 40,
+    "title": "Augmented Reality App Development",
+    "description": "Build interactive AR applications using Unity and AR Foundation. Learn marker-based and plane detection techniques for iOS and Android platforms.",
+    "tags": [
+      "augmented reality",
+      "unity",
+      "ar",
+      "mobile"
+    ],
+    "author": "AR Dev Studio",
+    "duration": "5 weeks",
+    "level": "Advanced",
+    "rating": 4.7
+  },
+  {
+    "id": 41,
+    "title": "Edge Computing Essentials",
+    "description": "Understand the principles of edge computing and how to deploy low-latency applications at the network's edge using tools like AWS Greengrass and Azure IoT Edge.",
+    "tags": [
+      "edge computing",
+      "iot",
+      "cloud",
+      "infrastructure"
+    ],
+    "author": "EdgeLab",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 42,
+    "title": "Entrepreneurship for Tech Innovators",
+    "description": "Learn how to turn your tech idea into a startup. Cover ideation, MVPs, funding, growth strategies, and pitching to investors.",
+    "tags": [
+      "entrepreneurship",
+      "startups",
+      "innovation",
+      "tech business"
+    ],
+    "author": "Startup Forge",
+    "duration": "6 weeks",
+    "level": "Beginner",
+    "rating": 4.7
+  },
+  {
+    "id": 43,
+    "title": "Ethical AI: Fairness, Privacy, and Accountability",
+    "description": "Dive deep into building responsible AI systems. Understand data bias, model explainability, user consent, and policy compliance in AI development.",
+    "tags": [
+      "ethics",
+      "ai",
+      "privacy",
+      "accountability"
+    ],
+    "author": "AI for Good",
+    "duration": "4 weeks",
+    "level": "Advanced",
+    "rating": 4.9
+  },
+  {
+    "id": 44,
+    "title": "Introduction to Blockchain Technology",
+    "description": "Explore the fundamentals of blockchain, including consensus algorithms, smart contracts, and decentralized applications. Understand how blockchain can transform industries beyond cryptocurrency.",
+    "tags": [
+      "blockchain",
+      "cryptocurrency",
+      "decentralization",
+      "technology"
+    ],
+    "author": "Blockchain Academy",
+    "duration": "5 weeks",
+    "level": "Beginner",
+    "rating": 4.6
+  },
+  {
+    "id": 45,
+    "title": "Data Science with R",
+    "description": "Learn data manipulation, statistical analysis, and visualization using R. Cover essential packages like dplyr, ggplot2, and tidyr to analyze real-world datasets.",
+    "tags": [
+      "data science",
+      "r",
+      "statistics",
+      "visualization"
+    ],
+    "author": "Data Science Hub",
+    "duration": "6 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 46,
+    "title": "Introduction to Ethical Hacking",
+    "description": "Learn the basics of ethical hacking, including reconnaissance, scanning, exploitation, and post-exploitation techniques. Understand how to secure systems against common vulnerabilities.",
+    "tags": [
+      "ethical hacking",
+      "cybersecurity",
+      "penetration testing",
+      "security"
+    ],
+    "author": "CyberSec Academy",
+    "duration": "5 weeks",
+    "level": "Beginner",
+    "rating": 4.5
+  },
+  {
+    "id": 47,
+    "title": "AI-Powered Data Analytics",
+    "description": "Discover how AI enhances data analytics with predictive modeling, anomaly detection, and automated insights. Use tools like Python and TensorFlow for practical applications.",
+    "tags": [
+      "ai",
+      "data analytics",
+      "machine learning",
+      "python"
+    ],
+    "author": "Data AI Lab",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.8
+  },
+  {
+    "id": 48,
+    "title": "Introduction to Ethical AI",
+    "description": "Explore the ethical implications of AI technologies. Learn about fairness, accountability, and transparency in AI systems, and how to implement ethical guidelines in AI development.",
+    "tags": [
+      "ethical ai",
+      "fairness",
+      "accountability",
+      "transparency"
+    ],
+    "author": "Ethics in Tech",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "rating": 4.6
+  },
+  {
+    "id": 49,
+    "title": "AI for Social Good",
+    "description": "Learn how AI can be applied to solve social challenges such as climate change, healthcare access, and education. Explore case studies and develop projects that make a positive impact.",
+    "tags": [
+      "ai",
+      "social good",
+      "impact",
+      "sustainability"
+    ],
+    "author": "AI for Impact",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 50,
+    "title": "Introduction to Data Privacy",
+    "description": "Understand the principles of data privacy, including GDPR, CCPA, and data protection strategies. Learn how to implement privacy by design in software development.",
+    "tags": [
+      "data privacy",
+      "gdpr",
+      "ccpa",
+      "protection"
+    ],
+    "author": "PrivacyTech",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "rating": 4.5
+  },
+  {
+    "id": 51,
+    "title": "AI in Finance: Algorithms and Applications",
+    "description": "Explore how AI is transforming the finance industry with algorithmic trading, risk assessment, and fraud detection. Learn to build financial models using Python.",
+    "tags": [
+      "ai",
+      "finance",
+      "algorithms",
+      "python"
+    ],
+    "author": "FinTech Academy",
+    "duration": "5 weeks",
+    "level": "Advanced",
+    "rating": 4.8
+  },
+  {
+    "id": 52,
+    "title": "AI-Driven Marketing Strategies",
+    "description": "Leverage artificial intelligence to create data-driven marketing campaigns, personalize user experiences, and improve ad targeting using tools like HubSpot and Google AI.",
+    "tags": [
+      "ai",
+      "marketing",
+      "automation",
+      "personalization"
+    ],
+    "author": "SmartMarketer",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 53,
+    "title": "Introduction to Smart Contracts",
+    "description": "Get hands-on with blockchain programming by writing and deploying smart contracts using Solidity on Ethereum. Explore security and auditing best practices.",
+    "tags": [
+      "smart contracts",
+      "solidity",
+      "blockchain",
+      "ethereum"
+    ],
+    "author": "ChainDev",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 54,
+    "title": "Intro to Mobile Hardware Programming",
+    "description": "Learn to interface sensors and hardware components with mobile devices using Android and Bluetooth. Build interactive apps that communicate with physical objects.",
+    "tags": [
+      "hardware",
+      "android",
+      "iot",
+      "mobile"
+    ],
+    "author": "HardSoft Mobile",
+    "duration": "5 weeks",
+    "level": "Advanced",
+    "rating": 4.6
+  },
+  {
+    "id": 55,
+    "title": "AI-Powered Resume Screening Tools",
+    "description": "Understand how companies use AI in hiring. Learn how to build and audit resume screening models that reduce bias and improve candidate matching.",
+    "tags": [
+      "ai",
+      "recruitment",
+      "resume",
+      "bias"
+    ],
+    "author": "TalentAI",
+    "duration": "2 weeks",
+    "level": "Intermediate",
+    "rating": 4.5
+  },
+  {
+    "id": 56,
+    "title": "Sustainable Tech: Green Computing",
+    "description": "Explore energy-efficient computing, data center sustainability, and green tech innovations. Learn to design systems with lower environmental impact.",
+    "tags": [
+      "sustainability",
+      "green computing",
+      "energy",
+      "tech"
+    ],
+    "author": "EcoTech",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "rating": 4.4
+  },
+  {
+    "id": 57,
+    "title": "Machine Learning Ops (MLOps) Essentials",
+    "description": "Understand the lifecycle of machine learning models in production. Cover model deployment, monitoring, CI/CD for ML, and scaling ML workflows using tools like MLflow and Kubeflow.",
+    "tags": [
+      "mlops",
+      "machine learning",
+      "devops",
+      "deployment"
+    ],
+    "author": "ProdAI Academy",
+    "duration": "5 weeks",
+    "level": "Advanced",
+    "rating": 4.7
+  },
+  {
+    "id": 58,
+    "title": "Data Cleaning and Preprocessing with Python",
+    "description": "Master the techniques of data preprocessing including handling missing values, outliers, encoding, and normalization using Python libraries like Pandas and Scikit-learn.",
+    "tags": [
+      "data cleaning",
+      "python",
+      "preprocessing",
+      "scikit-learn"
+    ],
+    "author": "CleanData Co.",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "rating": 4.5
+  },
+  {
+    "id": 59,
+    "title": "Building Scalable APIs with FastAPI",
+    "description": "Learn how to build high-performance RESTful APIs using FastAPI. Cover validation, authentication, background tasks, and deploying with Docker.",
+    "tags": [
+      "fastapi",
+      "api",
+      "python",
+      "web development"
+    ],
+    "author": "Fast Dev Academy",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 60,
+    "title": "Getting Started with Edge AI",
+    "description": "Deploy AI models to edge devices like Raspberry Pi, Jetson Nano, and mobile platforms. Understand optimization, quantization, and real-time inference.",
+    "tags": [
+      "edge ai",
+      "iot",
+      "deployment",
+      "inference"
+    ],
+    "author": "EdgeVision Labs",
+    "duration": "6 weeks",
+    "level": "Advanced",
+    "rating": 4.8
+  },
+  {
+    "id": 61,
+    "title": "Building Chatbots with LangChain and LLMs",
+    "description": "Create smart, memory-aware chatbots using LangChain and large language models. Implement tools, agents, and chains for contextual dialogue.",
+    "tags": [
+      "langchain",
+      "chatbots",
+      "llm",
+      "agents"
+    ],
+    "author": "LLM Creators",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 62,
+    "title": "Neural Networks from Scratch",
+    "description": "Build neural networks from the ground up without any ML libraries. Understand backpropagation, activation functions, and optimization techniques by coding everything manually.",
+    "tags": [
+      "neural networks",
+      "machine learning",
+      "from scratch",
+      "deep learning"
+    ],
+    "author": "CodeNeural",
+    "duration": "6 weeks",
+    "level": "Advanced",
+    "rating": 4.9
+  },
+  {
+    "id": 63,
+    "title": "Tech Entrepreneurship for Beginners",
+    "description": "Learn how to turn your tech idea into a startup. Covers ideation, MVP building, market research, pitching, and early-stage funding strategies.",
+    "tags": [
+      "entrepreneurship",
+      "startups",
+      "business",
+      "tech"
+    ],
+    "author": "Startup School",
+    "duration": "4 weeks",
+    "level": "Beginner",
+    "rating": 4.6
+  },
+  {
+    "id": 64,
+    "title": "Voice Assistant Development with Python",
+    "description": "Build your own voice assistant using Python libraries. Implement voice recognition, natural language processing, and integration with APIs for real-world tasks.",
+    "tags": [
+      "voice assistant",
+      "python",
+      "nlp",
+      "automation"
+    ],
+    "author": "AudioTech Labs",
+    "duration": "5 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 65,
+    "title": "Building Secure REST APIs",
+    "description": "Master REST API security best practices including authentication, authorization, JWT, rate limiting, and OWASP guidelines using frameworks like FastAPI and Express.",
+    "tags": [
+      "api",
+      "security",
+      "rest",
+      "fastapi"
+    ],
+    "author": "SecureCode Academy",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.8
+  },
+  {
+    "id": 66,
+    "title": "Generative Adversarial Networks (GANs)",
+    "description": "Dive into GANs and learn how to generate realistic images and data. Cover generator-discriminator architecture, training stability, and advanced GAN variants.",
+    "tags": [
+      "gans",
+      "deep learning",
+      "ai",
+      "generation"
+    ],
+    "author": "VisionAI",
+    "duration": "4 weeks",
+    "level": "Advanced",
+    "rating": 4.9
+  },
+  {
+    "id": 67,
+    "title": "Intermediate Data Engineering",
+    "description": "Learn the fundamentals of data engineering, including ETL pipelines, data warehousing, and working with big data tools like Apache Spark and Airflow. Gain hands-on experience building scalable data workflows.",
+    "tags": ["data engineering", "etl", "big data", "spark", "airflow"],
+    "author": "Data Pipeline Academy",
+    "duration": "5 weeks",
+    "level": "Intermediate",
+    "rating": 4.8
+  },
+  {
+    "id": 68,
+    "title": "DevOps Foundations with GitHub Actions",
+    "description": "Learn the core principles of DevOps and automate software delivery using GitHub Actions. Set up CI/CD pipelines, manage secrets, and deploy to cloud platforms.",
+    "tags": ["devops", "github actions", "ci/cd", "automation"],
+    "author": "OpsBridge",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 69,
+    "title": "Building RESTful APIs with FastAPI",
+    "description": "Develop fast and efficient APIs with FastAPI. Cover request handling, dependency injection, authentication, and OpenAPI integration.",
+    "tags": ["fastapi", "rest", "python", "api"],
+    "author": "API School",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.8
+  },
+  {
+    "id": 70,
+    "title": "Graph Theory for Programmers",
+    "description": "Master core graph theory concepts and apply them in programming tasks. Topics include BFS, DFS, Dijkstra’s algorithm, and graph modeling in Python.",
+    "tags": ["graph theory", "algorithms", "python", "data structures"],
+    "author": "AlgoCore",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 71,
+    "title": "Computer Vision with PyTorch",
+    "description": "Build and train image classifiers, object detectors, and segmentation models using PyTorch. Understand data pipelines and transfer learning.",
+    "tags": ["computer vision", "pytorch", "deep learning", "images"],
+    "author": "VisionNet",
+    "duration": "5 weeks",
+    "level": "Advanced",
+    "rating": 4.9
+  },
+  {
+    "id": 72,
+    "title": "Introduction to Edge AI",
+    "description": "Explore how artificial intelligence is deployed on edge devices. Learn about model optimization, TensorFlow Lite, and running inference on mobile and IoT platforms.",
+    "tags": ["edge ai", "iot", "tensorflow lite", "model optimization"],
+    "author": "EdgeTech",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 73,
+    "title": "Mastering Regular Expressions",
+    "description": "Unlock the power of regex for text processing. Learn pattern matching, lookaheads, capture groups, and practical examples in various programming languages.",
+    "tags": ["regex", "text processing", "pattern matching", "scripting"],
+    "author": "TextSmith",
+    "duration": "2 weeks",
+    "level": "Intermediate",
+    "rating": 4.5
+  },
+  {
+    "id": 74,
+    "title": "Agile Project Management with Jira",
+    "description": "Manage software projects effectively using agile methodologies in Jira. Create user stories, manage sprints, and track project progress.",
+    "tags": ["agile", "jira", "project management", "scrum"],
+    "author": "SprintLab",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "rating": 4.4
+  },
+  {
+    "id": 75,
+    "title": "AI Music Generation with Python",
+    "description": "Create generative music using AI tools. Learn about MIDI data, RNNs, and music theory basics as you build creative sound systems with Python.",
+    "tags": ["ai", "music", "python", "rnn"],
+    "author": "SonicAI",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 76,
+    "title": "Understanding Blockchain Security",
+    "description": "Dive into the security mechanisms behind blockchains. Study consensus algorithms, smart contract vulnerabilities, and security best practices.",
+    "tags": ["blockchain", "security", "smart contracts", "consensus"],
+    "author": "BlockSecure",
+    "duration": "4 weeks",
+    "level": "Advanced",
+    "rating": 4.6
+  },
+  {
+    "id": 77,
+    "title": "Math for Computer Graphics",
+    "description": "Study the mathematical foundations of computer graphics, including vectors, matrices, transformations, and lighting models.",
+    "tags": ["math", "graphics", "vectors", "matrices"],
+    "author": "RenderMath",
+    "duration": "5 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 78,
+    "title": "Game Physics with Unity",
+    "description": "Implement realistic game physics in Unity. Topics include rigidbody dynamics, collision detection, forces, and custom physics scripting.",
+    "tags": ["unity", "game physics", "rigidbody", "collision"],
+    "author": "GameMechanics",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.8
+  },
+  {
+    "id": 79,
+    "title": "Building Secure APIs with OAuth2",
+    "description": "Learn to implement secure APIs using OAuth2. Cover flows like Authorization Code, client credentials, and token revocation using real-world setups.",
+    "tags": ["oauth2", "security", "api", "authentication"],
+    "author": "SecureAPI Lab",
+    "duration": "3 weeks",
+    "level": "Advanced",
+    "rating": 4.7
+  },
+  {
+    "id": 80,
+    "title": "Creating Custom GPT Models",
+    "description": "Learn how to build your own GPT-style transformer model. Cover tokenization, attention mechanisms, training from scratch, and fine-tuning.",
+    "tags": ["gpt", "transformer", "nlp", "language model"],
+    "author": "LLM Builders",
+    "duration": "6 weeks",
+    "level": "Advanced",
+    "rating": 4.9
+  },
+  {
+    "id": 81,
+    "title": "Build a Voice Assistant with Python",
+    "description": "Build your own smart voice assistant using Python. Learn speech recognition, natural language processing, and voice output with hands-on examples.",
+    "tags": ["voice assistant", "python", "speech recognition", "nlp"],
+    "author": "SmartVoice Academy",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 82,
+    "title": "Neural Style Transfer with PyTorch",
+    "description": "Create stunning visual art using deep learning. Learn to blend content and artistic style from different images using neural style transfer techniques.",
+    "tags": ["style transfer", "pytorch", "deep learning", "computer vision"],
+    "author": "Visual AI Lab",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 83,
+    "title": "Cloud-Native Architecture Patterns",
+    "description": "Design scalable, resilient systems using cloud-native principles. Learn about microservices, service mesh, event-driven architecture, and CI/CD pipelines.",
+    "tags": ["cloud", "architecture", "microservices", "cicd"],
+    "author": "CloudScale Academy",
+    "duration": "5 weeks",
+    "level": "Advanced",
+    "rating": 4.8
+  },
+  {
+    "id": 84,
+    "title": "Creative Coding with Java",
+    "description": "Explore generative and interactive art using Java. Work with Processing and the Java graphics API to bring visual ideas to life through code.",
+    "tags": ["creative coding", "java", "art", "processing"],
+    "author": "CodeArt School",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "rating": 4.5
+  },
+  {
+    "id": 85,
+    "title": "DevSecOps Essentials",
+    "description": "Integrate security practices into your DevOps pipelines. Learn about secure coding, static analysis, vulnerability scanning, and policy enforcement.",
+    "tags": ["devsecops", "security", "devops", "ci/cd"],
+    "author": "SecurePipeline",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 86,
+    "title": "Functional Programming",
+    "description": "Master the basics of functional programming using languages like Haskell and JavaScript. Learn pure functions, immutability, and higher-order functions.",
+    "tags": ["functional programming", "haskell", "javascript", "software design"],
+    "author": "Lambda Academy",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 87,
+    "title": "Creating Chatbots with Rasa",
+    "description": "Develop contextual AI chatbots using Rasa. Learn NLU training, dialogue management, custom actions, and integrations with messaging platforms.",
+    "tags": ["chatbot", "rasa", "nlu", "conversational ai"],
+    "author": "BotForge",
+    "duration": "5 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 88,
+    "title": "AI-Based Image Captioning",
+    "description": "Build deep learning models that generate captions for images. Use CNNs for image encoding and RNNs for decoding with real-world datasets.",
+    "tags": ["image captioning", "deep learning", "cnn", "rnn"],
+    "author": "VisionVerse",
+    "duration": "4 weeks",
+    "level": "Advanced",
+    "rating": 4.8
+  },
+  {
+    "id": 89,
+    "title": "Systems Design for Interview Prep",
+    "description": "Crack systems design interviews with real scenarios. Cover distributed systems, scalability, databases, and caching strategies.",
+    "tags": ["system design", "interview", "scalability", "backend"],
+    "author": "TechPrep",
+    "duration": "4 weeks",
+    "level": "Advanced",
+    "rating": 4.9
+  },
+  {
+    "id": 90,
+    "title": "Low-Code Platforms for Enterprise Apps",
+    "description": "Learn how to build scalable enterprise applications using low-code tools like Mendix and OutSystems. Focus on workflows, integrations, and deployment.",
+    "tags": ["low-code", "enterprise", "app development", "business"],
+    "author": "NoCode Enterprise",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "rating": 4.5
+  },
+  {
+    "id": 91,
+    "title": "Introduction to Bioinformatics",
+    "description": "Learn how to analyze biological data using computational tools. Explore DNA sequencing, protein analysis, and genomics with hands-on coding examples.",
+    "tags": ["bioinformatics", "genomics", "data science", "biology"],
+    "author": "Genetic Code Institute",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.6
+  },
+  {
+    "id": 92,
+    "title": "Building Progressive Web Apps (PWAs)",
+    "description": "Learn to create fast, offline-capable web applications using service workers, manifest files, and caching strategies.",
+    "tags": ["pwa", "web development", "offline", "javascript"],
+    "author": "Modern Web Academy",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 93,
+    "title": "Hands-on Robotics with Arduino",
+    "description": "Build and program simple robots using Arduino. Cover sensors, actuators, and control logic through interactive projects.",
+    "tags": ["robotics", "arduino", "electronics", "hardware"],
+    "author": "RoboMinds",
+    "duration": "5 weeks",
+    "level": "Beginner",
+    "rating": 4.6
+  },
+  {
+    "id": 94,
+    "title": "Mastering Regular Expressions",
+    "description": "Unlock the full power of regex for powerful search, data extraction, and validation. Practice with real-world examples in Python, JS, and more.",
+    "tags": ["regex", "text processing", "search", "data cleaning"],
+    "author": "PatternLab",
+    "duration": "4 weeks",
+    "level": "Advanced",
+    "rating": 4.5
+  },
+  {
+    "id": 95,
+    "title": "AI for Music Generation",
+    "description": "Generate original music with AI using tools like Magenta and MuseNet. Explore the intersection of deep learning and creative audio.",
+    "tags": ["ai", "music", "generation", "creative ai"],
+    "author": "SoundLab AI",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 96,
+    "title": "Data Visualization with Matplotlib",
+    "description": "Learn to create insightful data visualizations using Matplotlib. Cover plotting basics, customization, subplots, and exporting graphics for reports.",
+    "tags": ["matplotlib", "python", "data visualization", "charts"],
+    "author": "Viz Masters",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.8
+  },
+  {
+    "id": 97,
+    "title": "Cloud Engineering Fundamentals",
+    "description": "Learn the core concepts of cloud engineering, including cloud architecture, deployment models, automation, and infrastructure as code. Gain hands-on experience with leading cloud platforms.",
+    "tags": ["cloud engineering", "cloud", "infrastructure", "automation"],
+    "author": "CloudLab",
+    "duration": "5 weeks",
+    "level": "Advanced",
+    "rating": 4.6
+  },
+  {
+    "id": 98,
+    "title": "Creating Visual Novels with Ren'Py",
+    "description": "Design interactive storytelling experiences using the Ren'Py engine. Add characters, dialogue trees, and branching storylines with Python scripting.",
+    "tags": ["visual novels", "game dev", "python", "renpy"],
+    "author": "StoryCode",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "rating": 4.5
+  },
+  {
+    "id": 99,
+    "title": "Financial Forecasting with Machine Learning",
+    "description": "Build ML models to predict stock prices, trends, and financial indicators using time series data and regression techniques.",
+    "tags": ["finance", "machine learning", "forecasting", "stocks"],
+    "author": "FinAI Lab",
+    "duration": "4 weeks",
+    "level": "Advanced",
+    "rating": 4.8
+  },
+  {
+    "id": 100,
+    "title": "Creative Writing for Digital Storytelling",
+    "description": "Learn narrative structure, character development, and world-building for interactive and digital formats like games, webcomics, and apps.",
+    "tags": ["writing", "storytelling", "creative", "digital media"],
+    "author": "Narrative Forge",
+    "duration": "4 weeks",
+    "level": "Beginner",
+    "rating": 4.6
+  },
+  {
+    "id": 101,
+    "title": "Serverless Computing with AWS Lambda",
+    "description": "Build scalable and cost-efficient applications using AWS Lambda and the serverless stack. Learn event-driven architecture and API Gateway integration.",
+    "tags": ["serverless", "aws", "lambda", "cloud"],
+    "author": "Cloud Ninja Academy",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": 102,
+    "title": "Augmented Reality App Development",
+    "description": "Create engaging AR experiences using Unity and AR Foundation. Learn marker-based and markerless tracking, 3D placement, and interaction design.",
+    "tags": ["augmented reality", "unity", "ar", "mobile"],
+    "author": "RealityWorks",
+    "duration": "5 weeks",
+    "level": "Advanced",
+    "rating": 4.6
+  },
+  {
+    "id": 103,
+    "title": "Statistics for Tech",
+    "description": "Learn essential statistics concepts for technology fields, including probability, distributions, hypothesis testing, and data analysis with real-world tech examples.",
+    "tags": ["statistics", "data analysis", "probability", "tech"],
+    "author": "Visual Math Studio",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "rating": 4.5
+  },
+  {
+    "id": 104,
+    "title": "Cybersecurity Risk Management",
+    "description": "Develop a strategic approach to identifying, assessing, and mitigating cybersecurity risks. Includes frameworks like NIST and ISO 27001.",
+    "tags": ["cybersecurity", "risk management", "compliance", "infosec"],
+    "author": "SecureTech Academy",
+    "duration": "3 weeks",
+    "level": "Advanced",
+    "rating": 4.8
+  }
+]
