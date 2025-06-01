@@ -21,7 +21,7 @@ Built as part of my AI/NLP portfolio to showcase:
 - Clean, responsive UI with hover animations
 
 ## Search Engine Architecture
-<img src='./search_engine.png' alt='Search Engine Architecture' width='60%'>
+<img src='./search_engine.png' alt='Search Engine Architecture' width='80%'>
 
 1. All course titles, descriptions, and tags are embedded into vectors using a pretrained sentence transformer.
 2. User queries are embedded and compared to each course using **cosine distance**.
